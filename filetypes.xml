@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="google-services" type="JSON" />
       <mapping pattern="Questions" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
